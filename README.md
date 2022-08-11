@@ -1,2 +1,2 @@
-# pyhp
+# PYHP
 Playing Your Human Protection
